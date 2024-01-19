@@ -100,7 +100,7 @@ The links in these displayed messages go to [Teams messages about retention poli
 
 ## Related topics
 
-- [Get started with retention policies and retention labels](/purview/get-started-with-retention)
+- [Get started with retention policies and retention labels](/purview/get-started-with-data-lifecycle-management)
 - [Learn about retention for Microsoft Teams](/purview/retention-policies-teams)
 - [Create and configure retention policies](/purview/create-retention-policies)
 - Troubleshooting: [Messages in the Teams and Viva Engage apps are unexpectedly deleted by retention policies](/microsoftteams/troubleshoot/teams-im-presence/messages-unexpectedly-deleted-retention-policy)
